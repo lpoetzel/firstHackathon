@@ -2,9 +2,9 @@
 
 This project was done in a 30 hour hackathon during training in Wild code school.
 
-###Our aproach was mobile only!!!
+### Our aproach was mobile only!!!
 
-##Demo 
+## Demo 
 
 https://christmas-berlin.netlify.app/
 
